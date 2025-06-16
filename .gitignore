@@ -1,0 +1,16 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# IDE settings
+.vscode/
+.idea/
+
+# Local files
+*.txt
+*.sqbpro
+.env
+
+# Keep database
+!database_info.db 
